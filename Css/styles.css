@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 4;
+}
+
+h2 {
+  color:#66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  margin: 0;
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.paragraf2 {
+  font-size: 2.5rem;
+}
+
+.footer-link {
+  color: #11999E;
+}
+.amateur {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.chalkboard {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.gif {
+  width: 25%;
+  float: right;
+}
+.skill-row-p {
+  clear:left;
+}
+.skill-row-p2 {
+  clear:right;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  color: grey;
+  margin-top:50px;
+  margin-bottom: 50px;
+}
+.bottom-container{
+  margin: 0;
+  background-color: #66BFBF;
+  position: relative;
+}
+.e-mail{
+  background-color: #66BFBF;
+  color: white;
+  line-height: 5;
+  border-radius: 10px;
+  font-size: 40px;
+}
+.contact-me{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+a{
+  text-decoration: none;
+}
+
+.name {
+  color:#EAF6F6;
+}
+.footer-link{
+  line-height: 8;
+  padding: 50px;
+}
+.me{
+  border-radius: 100%;
+}
+.name{
+  margin: 20px auto 0;
+  padding: 15px;
+}
